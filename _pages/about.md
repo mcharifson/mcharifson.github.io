@@ -19,4 +19,4 @@ Please note that I use the term female to refer to individuals who at any point 
 
 For more info about my collaborators 
 ------
-At ASU, I work with [Dr. Ben Trumble](www.trumblelab.org) in the Evolutionary Medicine and Biodemography Lab and on the [Tsimane Health and Life History Project](http://www.unm.edu/~tsimane/). You can find more information about them at the links provided
+At ASU, I work with [Dr. Ben Trumble](www.trumblelab.org) in the Evolutionary Medicine and Biodemography Lab. You can find more information about them at the links provided.
