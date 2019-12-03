@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my full cv [here](cv_base.pdf)
-
 Education
 ======
 * PhD in progress (anticipated 2023), Global Health, Arizona State University
