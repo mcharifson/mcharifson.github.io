@@ -25,6 +25,7 @@ Publications
   
 Conference Abstracts
 ======
+* Charifson, M., Marquez, M., García, A.R., Blackwell A.D., Trumble B.C. “Differential impacts of female reproductive phase on immune profiles based on different immune ecology for female-individuals in Honduras and the United States”. Human Biology Association Conference, Los Angeles, California. [submitted for 2020]
 * Charifson, M., Cummings, D., Stieglitz, J., Kaplan, H., Gurven, M., Trumble, B.C. “Physiological and Life History Determinants of Interbirth Interval”. The Institute of Social Science Research Graduate Student Poster Contest, Tempe, Arizona. 2019.
 * Charifson, M., Cummings, D., Stieglitz, J., Kaplan, H., Gurven, M., Trumble, B.C. “Energetics and Fertility: The Impact of Body Mass and Insulin on Parity”. Human Biology Association Conference, Cleveland, Ohio. 2019.
 * Insel, K., Charifson, M., Prater Fahey, M., Falcone, G., Somerville, L. “When high stakes help: developmental shifts in reinforcement learning from gains and losses”. Social Affective Neuroscience Society Conference, Orlando, FL. 2018.
@@ -60,6 +61,7 @@ Research Experience
 
 Teaching
 ======
+* Teaching Assistant, Anthropological Science and Mathematics 414: Urban and Environmental Health, Arizona State University. 
 * Peer Tutor; Computer Science 1: Great Ideas in Computer Science, Harvard University. (2017-2018)
 * Peer Tutor; Life Sciences 1B: Introduction to Life Sciences, Harvard University. (2018)
 * Peer Tutor; Life Sciences 2: Evolutionary Human Physiology & Anatomy, Harvard University. (2016)
@@ -76,8 +78,11 @@ Skills
 
 Service and leadership
 ======
-
-* Teacher in-training, Prison Biology Education Program. Eyman Prison. 
+* Podcast Interview, Episode 17: Why is the number of women with PCOS increasing if it’s a genetic condition?, The PCOS Nutritionist [Media coverage](https://thepcosnutritionist.com/resources/episode-17/).
 * Co-Director, Sexual Violence Counselor; [Response Peer Counseling Hotline](http://harvardresponse.com/), Harvard University. 
 * Program Director; [Hear Me Now: A Take Back the Night Event](https://www.thecrimson.com/article/2016/4/7/students-hold-vigil/). 
 
+Laboratory Techniques
+======
+* In house EIA/ELISA: Cortisol, Testosterone, Estrogen, Progesterone
+* Commercial EIA/ELISA: Cytomegalovirus, Immunoglobulin E, Estrogen, Progesterone
