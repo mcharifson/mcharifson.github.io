@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage where you can learn about my research and myself! My name is Mia Charifson and I am a graduate student at Arizona State University pursuing an MA in Global Health in the School of Human Evolution and Social Change.
+Welcome to my personal webpage where you can learn about my research and myself! My name is Mia Charifson (she/her/hers) and I am a graduate student at Arizona State University pursuing an MA in Global Health in the School of Human Evolution and Social Change. 
 
 Research Interests
 ======
