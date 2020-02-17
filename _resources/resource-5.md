@@ -8,4 +8,4 @@ collection: resources
 * [Tia](https://www.asktia.com/)
 * [Modern Fertility](https://modernfertility.com/)
 * [Yona Care](https://yonacare.com/)
-* [Elvie] (https://www.elvie.com/en-us/)
+* [Elvie](https://www.elvie.com/en-us/)
