@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in progress (anticipated 2023), Global Health, Arizona State University
-* M.A. in progress (anticipated 2019), Global Health, Arizona State University
+* M.A. in progress (anticipated 2020), Global Health, Arizona State University
 * A.B. Human Evolutionary Biology, Harvard University 2018
 
 Publications
