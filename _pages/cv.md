@@ -49,6 +49,7 @@ Grants
 
 Research Experience
 ======
+* Intern, Data Analyst, Bureau of Women’s and Children’s Health, Arizona Department of Health Services [for credit hours]. 2019
 * Research Assistant, Data Analyst and Manager; Comparative Health Lab, Arizona State University, Co-PI = Dr. B. Trumble, Co-PI = Dr. K. Hinde. 2018-present.
 * Research Assistant, Ethnographer; Culture, Cognition and Coevolution Lab, Harvard University, PI = Dr. J. Henrich (Project: Survey of Mystical Harm). 2018.
 * Research Assistant; Affective Neuroscience and Development Lab, Harvard University, PI = Dr. L. Somerville (Project: Quantifying reinforcement learning deficits in adolescent depression: A computational imaging study). 2015-2018.
