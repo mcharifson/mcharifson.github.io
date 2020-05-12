@@ -75,8 +75,8 @@ Skills
 * GitHub
 * SPSS
 * MAXQDA
-* Python (numpy, pandas, scikit, seaborn, matlab)
-  -Certificate: Python for Data Sciene and Machine Learning, Udemy
+* Python (numpy, pandas, scikit, seaborn, matlab) [^*]
+  [^*]: Python for Data Sciene and Machine Learning Course Certification, Udemy
 
 Service and leadership
 ======
