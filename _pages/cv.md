@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.A. in progress (anticipated 2020), Global Health, Arizona State University
+* M.A. in progress, Global Health, Arizona State University 2020
 * A.B. Human Evolutionary Biology, Harvard University 2018
 
 Publications
@@ -59,6 +59,8 @@ Research Experience
 
 Teaching
 ======
+* Teaching Assistant, Anthropological Science and Mathematics 201: Epidemics and Outbreaks, Arizona State University. 
+* Teaching Assistant, Anthropological Society and Behavior 357: Society and Drugs, Arizona State University. 
 * Teaching Assistant, Anthropological Science and Mathematics 414: Urban and Environmental Health, Arizona State University. 
 * Peer Tutor; Computer Science 1: Great Ideas in Computer Science, Harvard University. (2017-2018)
 * Peer Tutor; Life Sciences 1B: Introduction to Life Sciences, Harvard University. (2018)
@@ -73,6 +75,8 @@ Skills
 * GitHub
 * SPSS
 * MAXQDA
+* Python (numpy, pandas, scikit, seaborn, matlab)
+  ** Certificate: Python for Data Sciene and Machine Learning, Udemy 
 
 Service and leadership
 ======
