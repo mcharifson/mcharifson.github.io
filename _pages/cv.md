@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.A. in progress, Global Health, Arizona State University 2020
+* PhD, in progress, Epidemiology, New York University School of Medicine
+* M.A. Global Health, Arizona State University 2020
 * A.B. Human Evolutionary Biology, Harvard University 2018
 
 Publications
@@ -74,6 +75,7 @@ Skills
 * R
 * GitHub
 * SPSS
+* SAS
 * MAXQDA
 * Python (numpy, pandas, scikit, seaborn, matlab)
     * Python for Data Sciene and Machine Learning Course Certification, Udemy
